@@ -1,1 +1,1 @@
-# IdealEdit: More precise and ideal image editing with multimodal instructions via Multimodal Large Language Models
+# IdealEdit: More Precise and Ideal Image Editing with multimodal instructions via Large Language Models
